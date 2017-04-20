@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/secure_conversation_status"
+        android:icon="@drawable/lock_unlocked"
+        android:orderInCategory="100"
+        android:title="User Photo"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/user_photo"
+        android:icon="@drawable/user1"
+        android:orderInCategory="100"
+        android:title="User Photo"
+        app:showAsAction="ifRoom" />
+
+</menu>
