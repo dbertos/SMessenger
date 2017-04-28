@@ -1,1 +1,1 @@
-# SMessenger
+Secure Android Messenger which works over SMS and allows to exchange encrypted messages. Uses ECDH for key exchange and AES GCM for encryption, stores local data encrypted and password protected, preserves perfect forward secrecy using encryption keys which expire in several days. Is part of my dissertation for BSc Computer Science degree at Nottingham Uni.
